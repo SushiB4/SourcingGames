@@ -1,2 +1,2 @@
 # SourcingGames
-Approach to solve the Sourcing Games
+Approach and solutions to the OSINT challenges from https://sourcing.games/ 
